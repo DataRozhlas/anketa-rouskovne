@@ -11,8 +11,8 @@ const qu1 = 'Je podle vás takzvané rouškovné „úplatek“ pro voliče? Pro
 const qu2 = 'Souhlasíte s vyplacením příspěvku a podpoříte návrh během hlasování ve sněmovně?'
 
 function printResps(obj) {
-  if (obj.o1 === '') { obj.o1 = '<i>Bez odpovědi.</i>'}
-  if (obj.o2 === '') { obj.o2 = '<i>Bez odpovědi.</i>'}
+  if (obj.o1 === null) { obj.o1 = '<i>Bez odpovědi.</i>'}
+  if (obj.o2 === null) { obj.o2 = '<i>Bez odpovědi.</i>'}
   return `<b>${qu1}</b><p>${obj.o1}</p><b>${qu2}</b><p>${obj.o2}</p>`
 }
 
@@ -23,7 +23,7 @@ function onLoad(e) {
       {data.map(el => (
         <div className="respondent">
           <img className="portret" src={host + "/foto/" + el.f} alt={el.p} />
-          <div className="bio">
+          <div className={el.o0 =="NE" ? "bio cervene" : el.o0 == "ANO" ? "bio zelene" :"bio"}>
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="vek">{el.s}</div>
           </div>
