@@ -7,13 +7,13 @@ if (window.location.hostname === "localhost") {
   host = "http://localhost/anketa-rouskovne"
 }
 
-const qu1 = 'Je podle vás takzvané rouškovné „úplatek“ pro voliče? Proč ano/ne?'
-const qu2 = 'Souhlasíte s vyplacením příspěvku a podpoříte návrh během hlasování ve sněmovně?'
+const qu1 = '1.'
+const qu2 = '2.'
 
 function printResps(obj) {
   if (obj.o1 === null) { obj.o1 = '<i>Bez odpovědi.</i>'}
   if (obj.o2 === null) { obj.o2 = '<i>Bez odpovědi.</i>'}
-  return `<b>${qu1}</b><p>${obj.o1}</p><b>${qu2}</b><p>${obj.o2}</p>`
+  return `<p><b>${qu1}</b> ${obj.o1}</p><p><b>${qu2}</b> ${obj.o2}</p>`
 }
 
 function onLoad(e) {
