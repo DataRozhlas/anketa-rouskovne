@@ -15,9 +15,9 @@ Vládní návrh kritizují i další opoziční strany. Třeba hnutí Starostov�
 
 „Podle mě to je ‚volební dáreček‘ počítající s vděčností seniorů – a ti tvoří podstatnou část voličské základny Andreje Babiše,“ reagoval na dotazy redakce šéf poslanců STAN Jan Farský. Koaliční návrh by podpořil pouze v případě, že by se omezil na příspěvek jen potřebným. „To znamená seniorům s nízkou penzí, těm, kteří už nepracují, a tudíž nemají jiný příjem,“ dodal.
 
-Server iROZHLAS.cz v rozsáhlé anketě oslovil 194 poslanců. V přehledu tak vynechal pouze premiéra Andreje Babiše a další členy vlády, kteří současně zastávají post v dolní komoře. Po několika urgencích se sešlo 125 odpovědí.
+Server iROZHLAS.cz v rozsáhlé anketě oslovil 194 poslanců. V přehledu tak vynechal pouze premiéra Andreje Babiše a další členy vlády, kteří současně zastávají post v dolní komoře. Po několika urgencích se sešlo 130 odpovědí.
 
-Z nich vyplývá, že pro stávající návrh by 74 poslanců zvedlo ruku, 37 by bylo proti a 14 je zatím na vážkách či nechtělo říct svůj názor veřejně. Redakce se konkrétně zákonodárců ptala na to, jestli takzvané rouškovné (1) považují za „úplatek“ voličům a zda (2) návrh ve stávající podobě případně na plénu podpoří a proč.
+Z nich vyplývá, že pro stávající návrh by 79 poslanců zvedlo ruku, 38 by bylo proti a 14 je zatím na vážkách či nechtělo říct svůj názor veřejně. Redakce se konkrétně zákonodárců ptala na to, jestli takzvané rouškovné (1) považují za „úplatek“ voličům a zda (2) návrh ve stávající podobě případně na plénu podpoří a proč.
 
 <wide>
   <div id="anketa-wrapper"></div>
@@ -33,7 +33,7 @@ I ve vládních lavicích se ale najdou výjimky. Třeba liberecký poslanec a v
 
 ## Pomoc za inflaci
 
-Z ankety dále vyplývá, že ruku pro zvednou také poslanci ČSSD. Například Roman Onderka to zdůvodňoval rostoucí inflací, Alena Gajdůšková zase tím, že vyplacené peníze v české ekonomice zůstanou. „Ti lidé peníze neodvádí do daňových rájů. Nakupují za ně běžné zboží a služby. Jsou to investice do nich i do ekonomiky,“ přiblížila.
+Z ankety dále vyplývá, že ruku pro zvednou také poslanci ČSSD. Například Roman Onderka to zdůvodňoval rostoucí inflací, Alena Gajdůšková – která kandiduje na Zlínsku v říjnových krajských volbách – zase tím, že vyplacené peníze v české ekonomice zůstanou. „Ti lidé peníze neodvádí do daňových rájů. Nakupují za ně běžné zboží a služby. Jsou to investice do nich i do ekonomiky,“ přiblížila.
 
   <a href="https://www.irozhlas.cz/zpravy-domov/pruzkum-median-rouskovne-duchodci-prispevek-koronavirus_2009071230_kro" class="b-inline b-inline--left">
   <div class="b-inline__wrap">
